@@ -1,0 +1,6 @@
+gradio
+torch
+llama_cpp
+faster-whisper
+TTS
+numpy
